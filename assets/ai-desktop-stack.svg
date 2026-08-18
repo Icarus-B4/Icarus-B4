@@ -1,1 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ed's AI desktop stack</title>
+  <desc id="desc">A futuristic system diagram connecting Voice, Vision, Agents and Automation through a central Jarvis Core.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#11102b"/>
+      <stop offset="1" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="45%" r="65%">
+      <stop offset="0" stop-color="#243b66"/>
+      <stop offset="0.55" stop-color="#171340"/>
+      <stop offset="1" stop-color="#090b20"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#67e8f9" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="url(#stroke)" stroke-opacity=".5"/>
+
+  <g opacity=".92" fill="none" stroke="url(#stroke)" stroke-width="2">
+    <path d="M278 110 H430 Q470 110 488 145 L520 204"/>
+    <path d="M278 310 H430 Q470 310 488 275 L520 216"/>
+    <path d="M922 110 H770 Q730 110 712 145 L680 204"/>
+    <path d="M922 310 H770 Q730 310 712 275 L680 216"/>
+  </g>
+
+  <g fill="#22d3ee" filter="url(#glow)">
+    <circle cx="430" cy="110" r="4"/><circle cx="488" cy="145" r="4"/>
+    <circle cx="430" cy="310" r="4"/><circle cx="488" cy="275" r="4"/>
+    <circle cx="770" cy="110" r="4"/><circle cx="712" cy="145" r="4"/>
+    <circle cx="770" cy="310" r="4"/><circle cx="712" cy="275" r="4"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(64 65)">
+      <rect width="214" height="90" rx="16" fill="#0b1228" stroke="#22d3ee" stroke-opacity=".55"/>
+      <circle cx="39" cy="45" r="17" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee"/>
+      <path d="M31 45h4l4-10 6 20 4-10h8" fill="none" stroke="#67e8f9" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="72" y="40" fill="#e2e8f0" font-size="19" font-weight="700" letter-spacing="2">VOICE</text>
+      <text x="72" y="63" fill="#94a3b8" font-size="12" letter-spacing="1">HEAR + SPEAK</text>
+    </g>
+    <g transform="translate(64 265)">
+      <rect width="214" height="90" rx="16" fill="#0b1228" stroke="#8b5cf6" stroke-opacity=".6"/>
+      <circle cx="39" cy="45" r="17" fill="#8b5cf6" fill-opacity=".12" stroke="#a78bfa"/>
+      <path d="M28 45c7-10 15-10 22 0-7 10-15 10-22 0Z" fill="none" stroke="#c4b5fd" stroke-width="2"/><circle cx="39" cy="45" r="4" fill="#c4b5fd"/>
+      <text x="72" y="40" fill="#e2e8f0" font-size="19" font-weight="700" letter-spacing="2">VISION</text>
+      <text x="72" y="63" fill="#94a3b8" font-size="12" letter-spacing="1">SEE + UNDERSTAND</text>
+    </g>
+    <g transform="translate(922 65)">
+      <rect width="214" height="90" rx="16" fill="#0b1228" stroke="#8b5cf6" stroke-opacity=".6"/>
+      <circle cx="39" cy="45" r="17" fill="#8b5cf6" fill-opacity=".12" stroke="#a78bfa"/>
+      <circle cx="34" cy="40" r="3" fill="#c4b5fd"/><circle cx="45" cy="40" r="3" fill="#c4b5fd"/><circle cx="39" cy="50" r="3" fill="#c4b5fd"/><path d="M34 40 39 50 45 40" fill="none" stroke="#c4b5fd"/>
+      <text x="72" y="40" fill="#e2e8f0" font-size="19" font-weight="700" letter-spacing="2">AGENTS</text>
+      <text x="72" y="63" fill="#94a3b8" font-size="12" letter-spacing="1">REASON + COORDINATE</text>
+    </g>
+    <g transform="translate(922 265)">
+      <rect width="214" height="90" rx="16" fill="#0b1228" stroke="#22d3ee" stroke-opacity=".55"/>
+      <circle cx="39" cy="45" r="17" fill="#22d3ee" fill-opacity=".12" stroke="#22d3ee"/>
+      <path d="M30 50 36 44 41 48 49 39" fill="none" stroke="#67e8f9" stroke-width="2.3" stroke-linecap="round"/><path d="m44 39h5v5" fill="none" stroke="#67e8f9" stroke-width="2"/>
+      <text x="72" y="40" fill="#e2e8f0" font-size="19" font-weight="700" letter-spacing="2">AUTOMATE</text>
+      <text x="72" y="63" fill="#94a3b8" font-size="12" letter-spacing="1">ACT + DELIVER</text>
+    </g>
+  </g>
+
+  <g transform="translate(600 210)" font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <circle r="118" fill="#8b5cf6" fill-opacity=".06" stroke="#8b5cf6" stroke-opacity=".18" stroke-dasharray="3 9"/>
+    <circle r="90" fill="url(#core)" stroke="url(#stroke)" stroke-width="2.5" filter="url(#glow)"/>
+    <path d="M-40-7 0-40 40-7 26 44-26 44Z" fill="none" stroke="#67e8f9" stroke-opacity=".5" stroke-width="1.5"/>
+    <circle r="42" fill="none" stroke="#a78bfa" stroke-opacity=".42"/>
+    <circle r="6" fill="#22d3ee" filter="url(#glow)"/>
+    <text y="-58" fill="#94a3b8" font-size="11" letter-spacing="4">ED'S</text>
+    <text y="76" fill="#e2e8f0" font-size="18" font-weight="700" letter-spacing="4">JARVIS CORE</text>
+  </g>
+
+  <text x="600" y="394" text-anchor="middle" fill="#64748b" font-family="Consolas, monospace" font-size="12" letter-spacing="4">LOCAL-FIRST • HUMAN-CONTROLLED • BUILT TO ACT</text>
+</svg>
