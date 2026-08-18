@@ -14,9 +14,9 @@
 
 ## `whoami`
 
-I am **Ed**, an independent builder from Germany focused on AI-native desktop software, voice interfaces and practical automation. I like ambitious systems that do more than answer questions: they see, listen, act and help people get real work done.
+I am **Ed**, an independent builder from Swiss focused on AI-native desktop software, voice interfaces and practical automation. I like ambitious systems that do more than answer questions: they see, listen, act and help people get real work done.
 
-My main project is **J.A.R.V.I.S.**, built together with **Jared Rhodenizer**: a desktop AI environment that brings agents, voice control, vision, browser workflows and system automation into one interface.
+My main project is **J.A.R.V.I.S.**, built together with **YOU maybe**: a desktop AI environment that brings agents, voice control, vision, browser workflows and system automation into one interface.
 
 > I do not build demos that merely look intelligent. I build tools that earn a permanent place on the desktop.
 
@@ -101,9 +101,9 @@ Reusable building blocks for real-time voice agents powered by LiveKit and Pytho
 
 ## Über mich
 
-Ich bin **Ed**, ein unabhängiger Entwickler aus Deutschland. Mein Schwerpunkt liegt auf KI-nativen Desktop-Anwendungen, Sprachsteuerung und sinnvoller Automatisierung. Mich interessieren Systeme, die mehr können als Fragen zu beantworten: Sie sollen sehen, zuhören, handeln und Menschen bei echter Arbeit unterstützen.
+Ich bin **Ed**, ein unabhängiger Entwickler aus der Schweiz. Mein Schwerpunkt liegt auf KI-nativen Desktop-Anwendungen, Sprachsteuerung und sinnvoller Automatisierung. Mich interessieren Systeme, die mehr können als Fragen zu beantworten: Sie sollen sehen, zuhören, handeln und Menschen bei echter Arbeit unterstützen.
 
-Mein Hauptprojekt ist **J.A.R.V.I.S.**, das ich gemeinsam mit **Jared Rhodenizer** entwickle. Es verbindet KI-Agenten, Sprachsteuerung, Vision, Browser-Workflows und Systemautomatisierung in einer Desktop-Oberfläche.
+Mein Hauptprojekt ist **J.A.R.V.I.S.**, das ich gemeinsam mit **Mit dir, vieleicht** entwickle. Es verbindet KI-Agenten, Sprachsteuerung, Vision, Browser-Workflows und Systemautomatisierung in einer Desktop-Oberfläche.
 
 ## Woran ich arbeite
 
