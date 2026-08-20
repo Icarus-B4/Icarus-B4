@@ -44,7 +44,7 @@ My main project is **J.A.R.V.I.S.**, built together with **YOU maybe**: a deskto
 <tr>
 <td width="50%" valign="top">
 
-### [J.A.R.V.I.S.](https://webstark.org/jarvis/)
+### [J.A.R.V.I.S.](https://github.com/Icarus-B4/jarvis-desktop_glas)
 
 A desktop AI command center for voice, vision, agents and system automation. Built by **Ed & Jared Rhodenizer**.
 
