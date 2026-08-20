@@ -114,7 +114,7 @@ Mein Hauptprojekt ist **J.A.R.V.I.S.**, das ich gemeinsam mit **Mit dir, vieleic
 
 ## Ausgewählte Projekte
 
-- **[J.A.R.V.I.S.](https://webstark.org/jarvis/)** — Desktop-Kommandozentrale für Sprache, Vision, Agenten und Automatisierung
+- **[J.A.R.V.I.S.](https://github.com/Icarus-B4/jarvis-desktop_glas)** — Desktop-Kommandozentrale für Sprache, Vision, Agenten und Automatisierung
 - **[Hermes Avatar Pet](https://github.com/Icarus-B4/hermes-plugin-avatar_pet)** — animierter Chat-Avatar für die Hermes Desktop App
 - **[SurepriseAI](https://github.com/Icarus-B4/SurepriseAi)** — Windows-Sprachdiktat mit Live-Transkription und KI-Textoptimierung
 - **[LiveKit Agent Skill](https://github.com/Icarus-B4/LiveKit-Agent-Skill)** — wiederverwendbare Bausteine für Echtzeit-Sprachagenten
